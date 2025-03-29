@@ -1,0 +1,18 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عرض الصور</title>
+</head>
+<body>
+    <h2>الصور المرفوعة</h2>
+    <img src="IMG-20250329-WA0042.jpg" width="300">
+    <img src="IMG-20250329-WA0043.jpg" width="300">
+    <img src="IMG-20250329-WA0044.jpg" width="300">
+</body>
+</html>
